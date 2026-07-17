@@ -152,3 +152,5 @@ class StudentManager:
             file.write(f"Records Updated       : {self.records_updated}\n")
             file.write(f"Records Deleted       : {self.records_deleted}\n")
         print("Report generated successfully!")
+
+        
