@@ -24,11 +24,11 @@ Student Record Manager is a Python-based application developed using Object-Orie
 ## Folder Structure
 
 StudentRecordManager/
-│── main.py
-│── student_manager.py
-│── students.json
-│── report.txt
-│── README.md
+. main.py\n
+. student_manager.py\n
+. students.json\n
+. report.txt\n
+. README.md\n
 
 ## Technologies Used
 - Python
